@@ -1,6 +1,9 @@
-Bharat Intern Virtual Internship Repository
+**Bharat Intern Virtual Internship Repository**
 
-Welcome to my Bharat Intern Virtual Internship repository! This repository contains two projects completed as part of the Bharat Intern Virtual Internship program. Below is a brief overview of each project:
+Welcome to my Bharat Intern Virtual Internship repository!
+This repository contains two projects completed as part of the Bharat Intern Virtual Internship program. 
+
+Below is a brief overview of each project:
 ----------------------------------------------------------------------------------------------------------------------------------
 1. Weather App :
 
